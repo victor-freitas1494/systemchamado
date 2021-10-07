@@ -14,7 +14,7 @@ Criação de um sistema, onde o usuario normal irá  fazer um chamado simples, o
 
 ## Getting Started
 
-![Visual](visual.jpg)
+![Visual](./visual.jpg)
 
 Iniciar o servidor do php:
 
